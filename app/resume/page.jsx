@@ -110,6 +110,10 @@ const skills = {
       name: "node.js",
     },
     {
+      icon:<FaJava/>,
+      name: "Java",
+    },
+    {
       icon: <FaFigma />,
       name: "Figma",
     },
