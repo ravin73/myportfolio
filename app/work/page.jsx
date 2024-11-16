@@ -29,7 +29,7 @@ const Projects = [
     ],
     image: "/assets/work/projectm.png",
     live: "",
-    github: "",
+    github: "https://github.com/ravin73/Brain-Tumor-Classification-2",
   },
   {
     num: "02",
@@ -46,7 +46,7 @@ const Projects = [
     ],
     image: "/assets/work/projectf.png",
     live: "https://ai-pdf-note-taker-psi.vercel.app",
-    github: "",
+    github: "https://github.com/ravin73/ai-pdf-note-taker",
   },
   {
     num: "03",
@@ -62,7 +62,7 @@ const Projects = [
     ],
     image: "/assets/work/projectp.png",
     live: "https://patreon-clonenew.vercel.app/",
-    github: "https://github.com/psi-psi/real-time-chat-app",
+    github: "https://github.com/ravin73/patreon-clone",
   },
 ];
 const Work = () => {

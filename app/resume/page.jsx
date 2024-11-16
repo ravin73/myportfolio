@@ -44,7 +44,7 @@ const experience = {
   icon: "",
   title: "My Experience",
   description:
-    "I have been working as a software engineer in the tech industry for over 5 years. I have developed various applications and have gained experience in various technologies.",
+    "I have been working as a software engineer in the tech industry for over 8 months. I have developed various applications and have gained experience in various technologies.",
   items: [
     {
       company: "Raj Corporation Limited",
@@ -79,7 +79,7 @@ const education = {
 const skills = {
   title: "My skills",
   description:
-    "Driven by a passion for creating impactful solutions, we harness the power of AI, data, and user-centered design to transform ideas into digital reality",
+    "Driven by a passion for creating impactful solutions, we harness the power of Full stack projects ,real experience and Data structure and Algorithms, and user-centered design to transform ideas into digital reality",
   skillList: [
     {
       icon: <FaHtml5 />,

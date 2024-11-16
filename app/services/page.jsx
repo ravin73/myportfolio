@@ -7,26 +7,26 @@ const services = [
   {
     num: "01",
     title: "Web Development",
-    description: "Driven by a passion for creating impactful solutions, we harness the power of AI, data, and user-centered design to transform ideas into digital reality",
-    href: "",
+    description: "Fueled by a drive to craft meaningful digital experiences, we leverage the latest in web development technologies, responsive design, and user-centric innovation to turn ideas into engaging, impactful web solutions",
+    href: "https://ai-pdf-note-taker-psi.vercel.app/",
   },
   {
     num: "02",
     title: "UI/Ux design",
-    description: "Driven by a passion for creating impactful solutions, we harness the power of AI, data, and user-centered design to transform ideas into digital reality",
+    description: "Driven by a passion for creating seamless and impactful user experiences, we combine intuitive design, thoughtful user interfaces, and cutting-edge technology to transform ideas into visually stunning and user-friendly digital realities",
     href: "",
   },
   {
     num: "03",
     title: "Machine Learning",
     description: "Driven by a passion for creating impactful solutions, we harness the power of AI, data, and user-centered design to transform ideas into digital reality",
-    href: "",
+    href: "https://www.coursera.org/account/accomplishments/verify/3Y67KFNUDCQU?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course",
   },
   {
     num: "04",
     title: "SAP ABAP",
-    description: "Driven by a passion for creating impactful solutions, we harness the power of AI, data, and user-centered design to transform ideas into digital reality",
-    href: "",
+    description: "Driven by a commitment to efficiency and precision, we leverage the power of SAP ABAP to develop tailored solutions, streamline processes, and transform complex business requirements into scalable, high-performance applications ",
+    href: "https://www.udemy.com/certificate/UC-519cf4fb-9ed3-49c8-8fa4-32527c219841/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com",
   },
 ];
 const Serivces = () => {
